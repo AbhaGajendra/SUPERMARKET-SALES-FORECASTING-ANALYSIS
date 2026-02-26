@@ -28,11 +28,11 @@ ________________________________________
   -	Geographic sales distribution by state
 ________________________________________
 **15 Days Sales Forecasting**
-  -**Forecast Models:** Time-series forecasting with confidence intervals
-  -**Insights:**
+  - **Forecast Models:** Time-series forecasting with confidence intervals
+  - **Insights:**
     - Short-term forecast (Dec 2020 – Jan 2021) predicts stable sales between 5K–10K daily
     - Long-term trend (2019–2021) shows cyclical fluctuations with seasonal peaks
--**State-wise Sales:**
+- **State-wise Sales:**
     - California: **0.34M**
     -	New York: **0.19M**
     - Texas: **0.12M**
