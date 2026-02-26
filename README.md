@@ -1,6 +1,6 @@
 ## **🛒 Sales Supermarket Analysis & Forecasting Dashboard**
 
-##🎯**Project Objective**
+## **🎯Project Objective**
 
 To deliver a comprehensive supermarket sales analysis and forecasting dashboard that uncovers key business insights, highlights top-performing regions and product categories. The goal is to enable data-driven decision-making in inventory, logistics, and marketing through clear visualization and predictive analytics.
 <img width="1308" height="735" alt="image" src="https://github.com/user-attachments/assets/6223a7db-196d-4702-b1db-3c008eff8f3e" />
